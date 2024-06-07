@@ -1,0 +1,26 @@
+[
+  {
+    "src": "/dino/dino1.png",
+    "matched": false
+  },
+  {
+    "src": "/dino/dino2.png",
+    "matched": false
+  },
+  {
+    "src": "/dino/dino3.png",
+    "matched": false
+  },
+  {
+    "src": "/dino/dino4.png",
+    "matched": false
+  },
+  {
+    "src": "/dino/dino5.png",
+    "matched": false
+  },
+  {
+    "src": "/dino/dino6.png",
+    "matched": false
+  }
+]
